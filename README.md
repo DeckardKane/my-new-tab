@@ -1,3 +1,7 @@
+# Very Important
+
+Not mine. Forked from [abachman's repo](https://github.com/abachman/my-new-tab). Hoping to port this to Firefox at some point. We'll see how it goes, I'm probably in too deep :)
+
 # My New Tab
 
 A simple, clean, custom Chrome new tab page. If you're using the extension from the Chrome app store, all settings [will eventually be] synced across all your devices. (Pull requests welcome!)
